@@ -6,7 +6,7 @@
 - Risk factors
   - [lecture](./lectures/lec_factor.pdf)
   - [hw](./lectures/lec_factor_hw.pdf)
-  - [Project](./projects/delta_hedging/delta_hedging_prj.ipynb) 
+  - [Project](./projects/delta_hedging_prj.ipynb) 
 
 - Interest rate risk
   - [lecture](./lectures/lec_rate.pdf)
@@ -19,7 +19,7 @@
 - Volatility
   - [lecture](./lectures/lec_vol.pdf)
   - [hw](./lectures/lec_vol_hw.pdf)
-  - [prj](./projects/vol_estimation/vol_estimation_prj.ipynb) 
+  - [prj](./projects/vol_estimation_prj.ipynb) 
 
 - Multivariate distributions
   - [lecture](./lectures/lec_multivar.pdf)
@@ -36,4 +36,4 @@
 
 - Copula application: Vasicek model
   - [lecture](./lectures/lec_vasicek.pdf)
-  - [prj](./projects/vasicek/vasicek.ipynb)
+  - [prj](./projects/vasicek.ipynb)
