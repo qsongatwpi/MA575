@@ -26,7 +26,6 @@
   - [hw](./lectures/lec_multivar_hw.pdf)
 
 - Risk measures
-  - Ref: [Chap12, RMFI], [Chap 2.2, QRM]
   - [lecture](./lectures/lec_var.pdf)
   - [hw](./lectures/lec_var_hw.pdf)
 
