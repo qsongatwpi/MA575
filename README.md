@@ -25,6 +25,9 @@
   - [lecture](./lectures/lec_multivar.pdf)
   - [hw](./lectures/lec_multivar_hw.pdf)
 
+- Risk Aggregation
+  - [lectures](./lectures/lec_aggregation.pdf)
+  - [hw](./lectures/lec_aggregation_hw.pdf)
 - Risk measures
   - [lecture](./lectures/lec_var.pdf)
   - [hw](./lectures/lec_var_hw.pdf)
