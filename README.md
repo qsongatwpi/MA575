@@ -39,3 +39,11 @@
 - Copula application: Vasicek model
   - [lecture](./lectures/lec_vasicek.pdf)
   - [prj](./projects/vasicek.ipynb)
+
+- default time and CDS
+  - [lecture](./lectures/lec_default.pdf)
+  - [hw](./lectures/lec_default_hw.pdf)
+
+- Structural models of default: Merton model
+ - [lecture](./lectures/lec_merton.pdf)
+ - [hw](./lectures/lec_merton_hw.pdf)
