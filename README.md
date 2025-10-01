@@ -24,6 +24,7 @@
 - Multivariate distributions
   - [lecture](./lectures/lec_multivar.pdf)
   - [hw](./lectures/lec_multivar_hw.pdf)
+  - [prj](./projects/correlation_estimation_prj.ipynb)
 
 - Risk Aggregation
   - [lectures](./lectures/lec_aggregation.pdf)
