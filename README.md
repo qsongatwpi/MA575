@@ -29,7 +29,7 @@
 - Risk Aggregation
   - [lectures](./lectures/lec_aggregation.pdf)
   - [hw](./lectures/lec_aggregation_hw.pdf)
-  
+
 - Risk measures
   - [lecture](./lectures/lec_var.pdf)
   - [hw](./lectures/lec_var_hw.pdf)
@@ -47,5 +47,5 @@
   - [hw](./lectures/lec_default_hw.pdf)
 
 - Structural models of default: Merton model
- - [lecture](./lectures/lec_merton.pdf)
- - [hw](./lectures/lec_merton_hw.pdf)
+  - [lecture](./lectures/lec_merton.pdf)
+  - [hw](./lectures/lec_merton_hw.pdf)
