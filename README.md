@@ -49,3 +49,6 @@
 - Structural models of default: Merton model
   - [lecture](./lectures/lec_merton.pdf)
   - [hw](./lectures/lec_merton_hw.pdf)
+
+- Extreme value theorem
+  - [lecture](./lectures/hul_ch13.pdf)
