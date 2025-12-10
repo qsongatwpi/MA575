@@ -52,3 +52,4 @@
 
 - Extreme value theorem
   - [lecture](./lectures/hul_ch13.pdf)
+  - [Problems](./lectures/hul_ch13.ipynb)
